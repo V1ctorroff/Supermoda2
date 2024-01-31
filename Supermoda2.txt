@@ -1,4 +1,4 @@
-1.0.7
+1.0.8
 5
 -----ATUALIZAÇÕES------
 3 - TESTE 1.0.7
@@ -15,6 +15,6 @@ Estamos aqui para tornar sua experiência ainda melhor!
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\R-D-T\\' + str(Protocolo) + ".png"
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\vendas\\venda.png'
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\' + str(Protocolo) + '.png'
-on
+off
 on
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png'
