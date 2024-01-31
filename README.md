@@ -1,7 +1,7 @@
-//Versão
-//Quantidade de log
-//[msg att (seguindo quantidade anterior)]
-//Demora da progress bar
+// Versão
+// Quantidade de log
+// [msg att (seguindo quantidade anterior)]
+// Demora da progress bar
 // msg de saudação
 // msg pós saudação
 // msg pós enquete
