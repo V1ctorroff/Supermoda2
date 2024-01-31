@@ -1,4 +1,4 @@
-1.0.4
+1.0.5
 5
 -----ATUALIZAÇÕES------
 3 - TESTE DE TEXTOS
@@ -15,3 +15,5 @@
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\R-D-T\\' + str(Protocolo) + ".png"
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\vendas\\venda.png'
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\' + str(Protocolo) + '.png'
+off
+off
