@@ -5,10 +5,13 @@
 2 - 31/01/2024
 1 - ATUALIZAÇÃO À DISTANCIA
 -----ATUALIZAÇÕES------
-6
+9
 "Bem-vindo(a) à *Supermoda 2* via WhatsApp!"
 "Me chamo Júlia, sou a sua atendente virtual. Aqui estão minhas atividades:"
 "Estamos aqui para tornar sua experiência ainda melhor!"
 0.5
 10
 0
+'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\R-D-T\\' + str(Protocolo) + ".png"
+'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\vendas\\venda.png'
+'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\' + str(Protocolo) + '.png'
