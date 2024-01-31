@@ -1,4 +1,4 @@
-1.0.5
+1.0.6
 5
 -----ATUALIZAÇÕES------
 3 - TESTE DE TEXTOS
@@ -6,9 +6,9 @@
 1 - ATUALIZAÇÃO À DISTANCIA
 -----ATUALIZAÇÕES------
 11
-"Bem-vindo(a) à *Supermoda 2* via WhatsApp!"
-"Me chamo Júlia, sou a sua atendente virtual. Aqui estão minhas atividades:"
-"Estamos aqui para tornar sua experiência ainda melhor!"
+Bem-vindo(a) à *Supermoda 2* via WhatsApp!
+Me chamo Júlia, sou a sua atendente virtual. Aqui estão minhas atividades:
+Estamos aqui para tornar sua experiência ainda melhor!
 0.5
 10
 0
