@@ -17,3 +17,4 @@ Estamos aqui para tornar sua experiência ainda melhor!
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\' + str(Protocolo) + '.png'
 off
 off
+'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png'
