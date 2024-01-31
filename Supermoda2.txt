@@ -1,7 +1,7 @@
-1.0.6
+1.0.7
 5
 -----ATUALIZAÇÕES------
-3 - TESTE DE TEXTOS
+3 - TESTE 1.0.7
 2 - 31/01/2024
 1 - ATUALIZAÇÃO À DISTANCIA
 -----ATUALIZAÇÕES------
@@ -15,6 +15,6 @@ Estamos aqui para tornar sua experiência ainda melhor!
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\R-D-T\\' + str(Protocolo) + ".png"
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\vendas\\venda.png'
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\' + str(Protocolo) + '.png'
-off
-off
+on
+on
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png'
