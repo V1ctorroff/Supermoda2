@@ -1,4 +1,4 @@
-1.0.1
+1.0.2
 5
 -----ATUALIZAÇÕES------
 3 - TEXTOS ARRUMADOS 
@@ -6,9 +6,9 @@
 1 - MUDANÇA DE TEMPO
 -----ATUALIZAÇÕES------
 6
-"oi"
-"oi2"
-"oi3"
+"oi0"
+"oi02"
+"oi03"
 0.4
 9
 1
