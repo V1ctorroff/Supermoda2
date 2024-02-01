@@ -13,3 +13,5 @@
 // diretório para salvar crediários
 // verificação de abas do sistema
 // verificação de login
+// diretório para salvar cpf
+// chave de criptografia
