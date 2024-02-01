@@ -1,8 +1,8 @@
-SP2AAAAAb
+SP2.AAAAAc
 5
 -----ATUALIZAÇÕES------
-3 - TESTE 1.0.7
-2 - 31/01/2024
+3 - TESTE SP2.AAAAAc
+2 - 01/02/2024
 1 - ATUALIZAÇÃO À DISTANCIA
 -----ATUALIZAÇÕES------
 11
@@ -16,6 +16,6 @@ Estamos aqui para tornar sua experiência ainda melhor!
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\vendas\\venda.png'
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\' + str(Protocolo) + '.png'
 desativado
-ativado
+desativado
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png'
 apsodjnfkejudi
