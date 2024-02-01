@@ -15,3 +15,4 @@
 // verificação de login
 // diretório para salvar cpf
 // chave de criptografia
+// status do sistema
