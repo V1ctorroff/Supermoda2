@@ -1,4 +1,4 @@
-SP2.AAAAAA
+SP2AAAAAb
 5
 -----ATUALIZAÇÕES------
 3 - TESTE 1.0.7
