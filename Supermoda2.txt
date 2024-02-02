@@ -1,11 +1,11 @@
-SP2.AAAAAe
+SP2.AAAAAf.1
 5
 -----ATUALIZAÇÕES------
-3 - TESTE SP2.AAAAAe
+3 - TESTE SP2.AAAAAf.1
 2 - 02/02/2024
 1 - ATUALIZAÇÃO À DISTANCIA
 -----ATUALIZAÇÕES------
-4
+6
 Bem-vindo(a) à *Supermoda 2* via WhatsApp!
 Me chamo Júlia, sou a sua atendente virtual. Aqui estão minhas atividades:
 Estamos aqui para tornar sua experiência ainda melhor!
@@ -16,7 +16,7 @@ C:\\Users\\Supermoda\\Desktop\\Supermoda2\\R-D-T\\
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\vendas\\venda.png
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\
 desativado
-ativo
+desativado
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png'
 sygffdkujvdgysagajsytfc
-desativado
+analise
