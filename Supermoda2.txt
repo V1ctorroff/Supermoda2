@@ -1,8 +1,8 @@
-SP2.AAAAAd
+SP2.AAAAAe.1
 5
 -----ATUALIZAÇÕES------
-3 - TESTE SP2.AAAAAd
-2 - 01/02/2024
+3 - TESTE SP2.AAAAAe.1
+2 - 02/02/2024
 1 - ATUALIZAÇÃO À DISTANCIA
 -----ATUALIZAÇÕES------
 4
@@ -12,11 +12,11 @@ Estamos aqui para tornar sua experiência ainda melhor!
 0.5
 10
 0
-'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\R-D-T\\' + str(Protocolo) + ".png"
-'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\vendas\\venda.png'
-'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\' + str(Protocolo) + '.png'
+C:\\Users\\Supermoda\\Desktop\\Supermoda2\\R-D-T\\
+C:\\Users\\Supermoda\\Desktop\\Supermoda2\\vendas\\venda.png
+C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\
 desativado
 ativo
 'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png'
-chavealeatoriaparanaoquebrarocodigo
+sygffdkujvdgysagajsytfc
 desativado
