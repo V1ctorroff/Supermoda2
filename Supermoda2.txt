@@ -1,9 +1,9 @@
-SP2.AAAAAf.4
+SP2.AAAAAf.5
 5
 -----ATUALIZAÇÕES------
-3 - TESTE SP2.AAAAAf.4
+3 - TESTE SP2.AAAAAf.5
 2 - 02/02/2024
-1 - TESTE DE RESET: 2
+1 - TESTE DE RESET: 3
 -----ATUALIZAÇÕES------
 6
 Bem-vindo(a) à *Supermoda 2* via WhatsApp!
@@ -19,4 +19,5 @@ desativado
 desativado
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png
 sygffdkujvdgysagajsytfc
+ativo
 ativo
