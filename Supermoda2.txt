@@ -1,9 +1,9 @@
-SP2.AAAAAf.1
+SP2.AAAAAf.2
 5
 -----ATUALIZAÇÕES------
-3 - TESTE SP2.AAAAAf.1
+3 - TESTE SP2.AAAAAf.2
 2 - 02/02/2024
-1 - ATUALIZAÇÃO À DISTANCIA
+1 - DIRETÓRIO DE CPF ARRUMADO
 -----ATUALIZAÇÕES------
 6
 Bem-vindo(a) à *Supermoda 2* via WhatsApp!
@@ -17,6 +17,6 @@ C:\\Users\\Supermoda\\Desktop\\Supermoda2\\vendas\\venda.png
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\
 desativado
 desativado
-'C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png'
+C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png
 sygffdkujvdgysagajsytfc
-analise
+ativo
