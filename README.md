@@ -21,3 +21,8 @@
 // Adiciona/subtrai mais tentativas (Tentativas + [valor especificado] / min: -20) / NA = 0
 // Adiciona/subtrai tempo à tempos longos (tempo + [valor especificado] / min: -1 / NA = 0
 // Adiciona/subtrai tempó à tempos curtos (tempo + [valor especificado] / min: -0.4 / NA = 0
+//Execute:
+//Execute:
+//Execute:
+//Execute:
+//Execute:
