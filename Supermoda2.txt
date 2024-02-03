@@ -1,9 +1,9 @@
-SP2.AAAAAf.8
+SP2.AAAAAf.9
 5
 -----ATUALIZAÇÕES------
-3 - TESTE SP2.AAAAAf.8
-2 - 02/02/2024
-1 - TESTE DE RESET: APROVADO
+3 - TESTE SP2.AAAAAf.9
+2 - 03/02/2024
+1 - TESTE DE EXECUTE
 -----ATUALIZAÇÕES------
 6
 Bem-vindo(a) à *Supermoda 2* via WhatsApp!
