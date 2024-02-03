@@ -16,3 +16,5 @@
 // diretório para salvar cpf
 // chave de criptografia
 // status do sistema
+// comando de reset
+// clear baseado no tipo de sistema
