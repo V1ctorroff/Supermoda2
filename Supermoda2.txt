@@ -1,7 +1,7 @@
-SP2.AAAAAg.3
+SP2.AAAAAg.4
 5
 -----ATUALIZAÇÕES------
-3 - TESTE SP2.AAAAAg.3
+3 - TESTE SP2.AAAAAg.4
 2 - 04/02/2024
 1 - 100% FUNCIONANDO 
 -----ATUALIZAÇÕES------
@@ -16,7 +16,7 @@ C:\\Users\\Supermoda\\Desktop\\Supermoda2\\R-D-T\\
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\vendas\\venda.png
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\
 desativado
-ativo
+desativado
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png
 sygffdkujvdgysagajsytfc
 ativo
