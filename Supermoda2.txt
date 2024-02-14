@@ -1,9 +1,9 @@
-SP2.AAAAAg.4
+SP2.AAAAAg.1
 5
 -----ATUALIZAÇÕES------
-3 - TESTE SP2.AAAAAg.4
-2 - 06/02/2024
-1 - PRIMEIRA ATUALIZAÇÃO
+3 - INICIALIZAÇÃO BÁSICA
+2 - SISTEMA OPERANDO
+1 - PRIMEIRA INICIALIZAÇÃO
 -----ATUALIZAÇÕES------
 6
 Bem-vindo(a) à *Supermoda 2* via WhatsApp!
@@ -15,8 +15,8 @@ Estamos aqui para tornar sua experiência ainda melhor!
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\R-D-T\\
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\vendas\\venda.png
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\Crediarios\\
-desativado
-desativado
+ativo
+ativo
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png
 sygffdkujvdgysagajsytfc
 ativo
