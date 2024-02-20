@@ -19,7 +19,7 @@ ativo
 ativo
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png
 sygffdkujvdgysagajsytfc
-ativo
+desativado
 ativo
 cls
 0
