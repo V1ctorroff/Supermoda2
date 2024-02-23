@@ -1,4 +1,4 @@
-SP2.AAAAA.1
+SP2.AAAAA.2
 5
 -----ATUALIZAÇÕES------
 3 - INICIALIZAÇÃO BÁSICA
@@ -19,7 +19,7 @@ ativo
 ativo
 C:\\Users\\Supermoda\\Desktop\\Supermoda2\\cpf\\cpf2.png
 sygffdkujvdgysagajsytfc
-ativo
+desativado
 ativo
 cls
 0
